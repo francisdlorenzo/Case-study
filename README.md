@@ -18,7 +18,7 @@ Act
 In these phases, they introduced the basics in data analysis for individuals with zero knowledge in the 
 world of data analysis.
 
-Tools used in the course
+Tools used in the course:
   -Google Sheets(used for data cleaning and basic descriptive statistics)
   -Big Query (used for data manipulation in databases using SQL)
   -R Programming (R is used to perform visualizations, data manipulations such as combining data, and for data analysis)
