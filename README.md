@@ -19,7 +19,11 @@ In these phases, they introduced the basics in data analysis for individuals wit
 world of data analysis.
 
 Tools used in the course:
+
   -Google Sheets(used for data cleaning and basic descriptive statistics)
+  
   -Big Query (used for data manipulation in databases using SQL)
+  
   -R Programming (R is used to perform visualizations, data manipulations such as combining data, and for data analysis)
+  
   -Tableau (Tableau is used to visualize cleaned data to be shared with stake holders and make data-driven decision making)
